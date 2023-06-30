@@ -1,1 +1,2 @@
 # INN-Hotels
+The INN Hotels Group are facing a high number of booking cancellations and need a solution to figure out which factors are causing the cancellations. I built a predictive learning model that can help predict which factors are influencing the cancellations, and can then predict which bookings have the highest likelihood of being canceled in advance. With this model, I formulated the most profitable policies to deal with cancellations and refunds. 
